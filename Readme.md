@@ -32,3 +32,4 @@ Run
 bash
 Copy code
 ./myCounter
+Note: This is a school project hosted by Oregon state university
